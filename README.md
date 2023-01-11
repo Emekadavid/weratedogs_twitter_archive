@@ -14,4 +14,8 @@ Visual and programmatic methods were used to assess the data. Some data quality 
 
 The data quality issues were not much. Some variables were spread across multiple columns and has to be harmonized for tidiness like the dog names in twitter_archive dataframe. Also, the counts_tweet dataframe is just a reflection of the information in the twitter_archive dataframe so for harmony I will have to merge these two. 
 
+Data cleaning was carried out on the quality and tidiness issues discovered and then all the dataframes were merged to produce one single dataframe. This master dataframe was then saved as `twitter_archive_master.csv`. 
+
+## Analyzing and Visualizing the Data
+
 TBC
