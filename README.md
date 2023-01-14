@@ -18,4 +18,24 @@ Data cleaning was carried out on the quality and tidiness issues discovered and 
 
 ## Analyzing and Visualizing the Data
 
-TBC
+The data was analyzed based on these three questions:
+
+1. What words did the tweet author use most frequently? It was found that the words "dog" and dog_stages like "doggo" were among the most frequently used words. Also, links on posts were very high on posts. Here is the word cloud from the text of the posts:
+![Post texts word cloud](./images/wordcloud_image.png)
+
+2. What apps does the tweet author use most frequently? It was found that the twitter app on iPhone was used all the time by the tweet author. 
+
+3. What rating is most often given to dogs and what dog breeds are associated with those ratings? The most frequent rating is 12/10. Golden retrievers and labrador retrievers are more often associated with that rating. 
+
+4. What 5 dog breed posts are most often retweeted? The highest was found to be labrador retrievers. The next were eskimo dogs and chihuahua. Reading the notebook to find out the others. 
+
+5. What 5 dog breeds are most often liked or favorited? The highest was labrador retrievers. Eskimo dogs and chihuahua also fall into the list. 
+
+## Conclusion
+
+On a personal note, I would say that people like labrador retrieves a lot. I don't have dogs as pets, but I guess that when I have the inclination to buy one, I would take a look at a labrador retriever. 
+
+I found an adorable picture of a labrador retriever below. 
+
+![An adorable labrador retriever](./images/lab_retriever.jpg)
+ 
